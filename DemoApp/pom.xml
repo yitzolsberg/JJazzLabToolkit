@@ -61,17 +61,17 @@
         <dependency>
             <groupId>org.jjazzlab</groupId>
             <artifactId>jjazzlab-toolkit</artifactId>  
-            <version>4.1.2</version>
+            <version>4.1.0</version>
         </dependency>            
         <dependency>
             <groupId>org.jjazzlab.plugins</groupId>
-            <artifactId>yamjjazz</artifactId>  
-            <version>4.1.2</version>
+            <artifactId>yamjjazz-jar</artifactId>  
+            <version>4.1.0</version>
         </dependency>            
         <dependency>
             <groupId>org.jjazzlab.plugins</groupId>
-            <artifactId>fluidsynthembeddedsynth</artifactId>  
-            <version>4.1.2</version>
+            <artifactId>fluidsynthembeddedsynth-jar</artifactId>  
+            <version>4.1.0</version>
         </dependency>         
     </dependencies>
 </project>
